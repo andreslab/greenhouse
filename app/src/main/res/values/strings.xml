@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Green H</string>
+    <string name="btn_save">GUARDAR</string>
+    <string name="hint_host">192.168.0.1</string>
+    <string name="hint_extension">/api/command</string>
+    <string name="status_dev">DEV</string>
+    <string name="status_pre">PRE</string>
+    <string name="status_pro">PRO</string>
+    <string name="is_on">ENCENDER</string>
+</resources>
